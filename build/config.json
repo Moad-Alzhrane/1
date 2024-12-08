@@ -1,0 +1,44 @@
+{
+  "options": [
+    {
+      "name": "Police",
+      "admins": ["1270262324342816811", "1017742605645258862"],
+      "image": "https://cdn.discordapp.com/attachments/1306048291611349004/1306070086791991362/a_938d38058a175a38b10a40de2c431d7.gif?ex=6756498e&is=6754f80e&hm=f2e673b030fd2f6e6bc66fd61cef53a2a67404cc42b53f7fac176d93bcdae2c2&",
+      "emoji": "🛠️",
+      "logchannel": "1315271095972270180",
+      "role": "1284483521536331839"
+    },
+    {
+      "name": "Academy",
+      "admins": ["1017742605645258862", "1270262324342816811"],
+      "image": "https://cdn.discordapp.com/attachments/1306048291611349004/1306070086791991362/a_938d38058a175a38b10a40de2c431d7.gif?ex=6756498e&is=6754f80e&hm=f2e673b030fd2f6e6bc66fd61cef53a2a67404cc42b53f7fac176d93bcdae2c2&",
+      "emoji": "🛠️",
+      "logchannel": "1315271459085619292",
+      "role": "1284483521536331839"
+    },
+    {
+      "name": "InternalAffairs",
+      "admins": ["1270262324342816811", "1017742605645258862"],
+      "image": "https://cdn.discordapp.com/attachments/1306048291611349004/1306070086791991362/a_938d38058a175a38b10a40de2c431d7.gif?ex=6756498e&is=6754f80e&hm=f2e673b030fd2f6e6bc66fd61cef53a2a67404cc42b53f7fac176d93bcdae2c2&",
+      "emoji": "🛠️",
+      "logchannel": "1315273193233317918",
+      "role": "1284483521536331839"
+    },
+    {
+      "name": "رقابه",
+      "admins": ["1270262324342816811", "1017742605645258862"],
+      "image": "https://cdn.discordapp.com/attachments/1306048291611349004/1306070086791991362/a_938d38058a175a38b10a40de2c431d7.gif?ex=6756498e&is=6754f80e&hm=f2e673b030fd2f6e6bc66fd61cef53a2a67404cc42b53f7fac176d93bcdae2c2&",
+      "emoji": "🛠️",
+      "logchannel": "1315324057780097026",
+      "role": "1271584073491419239"
+    },
+    {
+      "name": "ادارة",
+      "admins": ["1270262324342816811", "1017742605645258862"],
+      "image": "https://cdn.discordapp.com/attachments/1306048291611349004/1306070086791991362/a_938d38058a175a38b10a40de2c431d7.gif?ex=6756498e&is=6754f80e&hm=f2e673b030fd2f6e6bc66fd61cef53a2a67404cc42b53f7fac176d93bcdae2c2&",
+      "emoji": "🛠️",
+      "logchannel": "1310227457332350999",
+      "role": "1232276865603993600"
+    }
+  ]
+}
